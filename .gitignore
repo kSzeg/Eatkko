@@ -6,3 +6,4 @@
 /db/*.sqlite
 /db/*.sqlite3-journal
 public/assets
+/config/keys.rb
